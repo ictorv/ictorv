@@ -26,7 +26,7 @@
 <a href="https://stackoverflow.com/users/18425567" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18425567" height="30" width="40" /></a>
 <a href="https://kaggle.com/victoraesthete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="victoraesthete" height="30" width="40" /></a>
 <a href="https://instagram.com/@victoraesthete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@victoraesthete" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/3d m](https://www.youtube.com/channel/UCLM7Xebi2Av1wwIexS13OUA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="3d m" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCLM7Xebi2Av1wwIexS13OUA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="3d m" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
