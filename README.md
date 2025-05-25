@@ -1,5 +1,5 @@
 
-### Every line of code carries a story of sweat when it worked, blood when it broke, and tears when I couldn’t fix it :
+### Code bleeds, I don’t. Limits? Never met one I didn’t break :
 
 
 - [Building Own LLM](https://github.com/ictorv/Large-Language-Pretraining)
@@ -17,11 +17,13 @@
 - [OpenCV Projects Collections II](https://github.com/ictorv/OpenCV)
 - [Employee Retention](https://github.com/ictorv/EmployeeRetention)
 - [HIV Health Crisis Modeling Data Analysis](https://github.com/ictorv/HIV-Health-Crisis-Modeling)
+- [Optimised Computer Vision Filter using C++ and Multithreading ](https://www.kaggle.com/code/victoraesthete/deep-learning-c-filter-using-multithreading)
+- [Portfolio](https://ictorv.vercel.app/)
 - [Own DL Notes](https://github.com/EnthuAi/Deep-Learning-Insight)
 
 ## Group Projects
 
-- [Online Voting System](https://drive.google.com/drive/folders/1o8gbQfQ_5sh-nsVWdlmgrteqc3vxGGp_?usp=sharing)
+- [AI powered Blockchain Voting System for Secure Election](https://drive.google.com/drive/folders/1o8gbQfQ_5sh-nsVWdlmgrteqc3vxGGp_?usp=sharing)
 - [Smart Learning Management System](https://drive.google.com/drive/folders/1w5ydTsSdGuqToW7aAY2ljjrfkMIEMglK?usp=drive_link)
-- [Secure-Smart-Home-Automation-using-Hand-Gesture](https://drive.google.com/drive/u/2/folders/1UUE8smHFjVl4b4CA45MaZwW0GnnB1rD-)
-- [Disaster Casualities Prediction and Resource Allocation](https://drive.google.com/drive/folders/1yyV23qA5feEInX4wrkqOgOalg50ocP8H?usp=sharing)
+- [Secure Smart Home Automation using Hand Gesture](https://drive.google.com/drive/u/2/folders/1UUE8smHFjVl4b4CA45MaZwW0GnnB1rD-)
+- [Disaster Casualities Prediction for Enhanced Resource Planning](https://drive.google.com/drive/folders/1yyV23qA5feEInX4wrkqOgOalg50ocP8H?usp=sharing)
