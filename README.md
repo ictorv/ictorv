@@ -1,6 +1,5 @@
 
-### Code bleeds, I don’t. Limits? Never met one I didn’t break :
-
+## Cooks :
 
 - [Building Own LLM](https://github.com/ictorv/Large-Language-Pretraining)
 - [Own Tokenizer Library](https://pypi.org/project/LangToken/) - ```pip install LangToken```
