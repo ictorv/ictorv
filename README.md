@@ -19,6 +19,7 @@
 - [Optimised Computer Vision Filter using C++ and Multithreading ](https://www.kaggle.com/code/victoraesthete/deep-learning-c-filter-using-multithreading)
 - [Portfolio](https://ictorv.vercel.app/)
 - [Own DL Notes](https://github.com/EnthuAi/Deep-Learning-Insight)
+- [E-rail Train Search Automation](https://github.com/ictorv/Train-Search-Automation)
 
 ## Group Projects
 
@@ -26,3 +27,4 @@
 - [Smart Learning Management System](https://drive.google.com/drive/folders/1w5ydTsSdGuqToW7aAY2ljjrfkMIEMglK?usp=drive_link)
 - [Secure Smart Home Automation using Hand Gesture](https://drive.google.com/drive/u/2/folders/1UUE8smHFjVl4b4CA45MaZwW0GnnB1rD-)
 - [Disaster Casualities Prediction for Enhanced Resource Planning](https://drive.google.com/drive/folders/1yyV23qA5feEInX4wrkqOgOalg50ocP8H?usp=sharing)
+- [Coursera Automation](https://drive.google.com/drive/folders/1CgsbYViyt2ofNy0R4lQnU5ATeqxXrmr3?usp=drive_link)
