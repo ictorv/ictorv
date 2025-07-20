@@ -28,3 +28,6 @@
 - [Secure Smart Home Automation using Hand Gesture](https://drive.google.com/drive/u/2/folders/1UUE8smHFjVl4b4CA45MaZwW0GnnB1rD-)
 - [Disaster Casualities Prediction for Enhanced Resource Planning](https://drive.google.com/drive/folders/1yyV23qA5feEInX4wrkqOgOalg50ocP8H?usp=sharing)
 - [Coursera Automation](https://drive.google.com/drive/folders/1CgsbYViyt2ofNy0R4lQnU5ATeqxXrmr3?usp=drive_link)
+
+## MVP
+- [TabGenius](https://tab-genius-smoky.vercel.app/)
