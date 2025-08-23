@@ -31,4 +31,4 @@
 
 ## MVP
 - [TabGenius](https://tab-genius-smoky.vercel.app/)
-<img src="https://www.google-analytics.com/collect?v=1&t=pageview&tid=G-74S5FHVVVX&cid=555&dp=/github-profile" width="1" height="1" />
+<img src="https://www.google-analytics.com/mp/collect?measurement_id=G-74S5FHVVVX&api_secret=Lv1g8rPyTZC0HUztMnLeew&cid=profile123&en=page_view&ep.page=github-profile" width="1" height="1" style="display:none;" />
