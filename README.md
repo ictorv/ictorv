@@ -31,4 +31,8 @@
 
 ## MVP
 - [TabGenius](https://tab-genius-smoky.vercel.app/)
-<img src="https://www.google-analytics.com/mp/collect?measurement_id=G-74S5FHVVVX&api_secret=Lv1g8rPyTZC0HUztMnLeew&cid=profile123&en=page_view&ep.page=github-profile" width="1" height="1" style="display:none;" />
+<div align="right">
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fictorv">
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fictorv&label=%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%94%A5&labelColor=black&countColor=white" alt="❤‍🔥" height=0 width="0"/>
+</a>
+</div>
